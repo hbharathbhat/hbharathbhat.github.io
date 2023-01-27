@@ -1,5 +1,5 @@
 # Portfolio
-HTML page with custom fonts only
+HTML page using custom fonts only
 
 
 Lets Go: https://bhatbharath.github.io/Portfolio/
