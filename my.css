@@ -298,10 +298,10 @@ img{
 }
 
 .container1{
-    display: flex;
-    justify-content: center;
-    /* flex-wrap: wrap;
-    align-content: center; */
+    /* display: flex;
+    justify-content: center; */
+    flex-wrap: wrap;
+    align-content: center;
     border: solid 2px rgb(0, 0, 0);
     background-color: white;
     border-radius: 20px;
@@ -311,9 +311,14 @@ img{
 }
 
 .container3{
-    display: flex;
+    /* display: flex;
     flex-direction: row;
-    justify-content:space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center; */
+    display:flexbox;
+    justify-content: center;
+
     text-align: center;
     color: white;
 }
