@@ -6,6 +6,10 @@ body{
     text-decoration: none;
 }
 
+a{
+    text-decoration: none;
+}
+
 
 img{
     mix-blend-mode: multiply;
@@ -35,7 +39,7 @@ img{
     font-family: 'Andika', sans-serif;
     font-size: 25px;
     font-weight: lighter;
-    text-decoration: none;
+    text-decoration: none;    
 }
 
 .my3{
@@ -322,3 +326,9 @@ img{
     text-align: center;
     color: white;
 }
+
+th, td{
+    border: solid black 2px;
+    border-radius: 20px;
+}
+
