@@ -1,7 +1,7 @@
 body{
     /*background-image: url("nasa-V4ZksNimxLk-unsplash.jpg");*/
     /* background: linear-gradient(to bottom right, #7694ff, #33CCFC); */
-    background-color: grey;
+    background-color: rgb(255, 255, 255);
     color: black;
     text-decoration: none;
 }
@@ -29,7 +29,7 @@ img{
     text-align: left;
     font-family: 'Passions Conflict', cursive;
     text-shadow: 6px 6px 6 wheat;
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ img{
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: rgba(98, 99, 100, 0.2);
+    background-color: rgba(153, 153, 153, 0.2);
     height: fit-content;
     width:fit-content;
     margin:auto;
@@ -197,7 +197,7 @@ img{
 
 .my12{
     text-align: center;
-    color:white;
+    color:rgb(0, 0, 0);
 }
 
 .my13{
@@ -324,7 +324,7 @@ img{
     justify-content: center;
 
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 th, td{
