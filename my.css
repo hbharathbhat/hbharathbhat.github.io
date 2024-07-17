@@ -11,12 +11,16 @@ a{
 }
 
 
-img{
+.image01{
     /* mix-blend-mode: multiply; */
-    /* height:250px;
-    width:250px; */
+    height:250px;
+    width:250px;
     border:black solid 1px;
     border-radius: 100%;
+}
+
+img{
+    mix-blend-mode: multiply;
 }
 
 
