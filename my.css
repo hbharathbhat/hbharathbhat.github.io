@@ -12,7 +12,11 @@ a{
 
 
 img{
-    mix-blend-mode: multiply;
+    /* mix-blend-mode: multiply; */
+    /* height:250px;
+    width:250px; */
+    border:black solid 1px;
+    border-radius: 100%;
 }
 
 
@@ -167,7 +171,7 @@ img{
     height: fit-content;
     width:fit-content;
     margin:auto;
-    width:200px;
+    width:fit-content;
     display: block;
     justify-content: center; 
 }
