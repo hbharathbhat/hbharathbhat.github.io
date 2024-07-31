@@ -1,4 +1,4 @@
 # Portfolio
 
-<a href="https://hbharathbhat.github.io/Portfolio/">Link</a>
+<a href="https://hbharathbhat.github.io/portfolio/">Link</a>
 
