@@ -1,0 +1,44 @@
+body{
+    text-align: justify;
+    border: 0px solid rgb(0, 0, 0);
+    width: 700px;
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 22px;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.institute{
+    font-size: larger;
+}
+
+.role{
+    font-size: large;
+    font-style: italic;
+}
+
+.course{
+    font-size: 21px;
+}
+
+.heading{
+    font-size: x-large;
+}
+
+.hr{
+    border-bottom: solid black 1px;
+}
+
+.hr1{
+    border-bottom: dashed black 1px;
+}
+
+.time{
+    text-align: end;
+    font-size: 15px;
+}
