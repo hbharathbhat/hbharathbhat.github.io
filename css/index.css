@@ -3,10 +3,25 @@ body{
     border: 0px solid rgb(0, 0, 0);
     width: 700px;
     margin: auto;
-    padding: 50px;
+    padding: 10px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 22px;
     font-size: 18px;
+}
+
+img{
+    border-radius: 100%;
+    height: 75px;
+    width: 75px;
+}
+
+.naam{
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+h1{
+    font-size: xx-large;
 }
 
 a{
@@ -23,12 +38,18 @@ a{
     font-style: italic;
 }
 
+.samay{
+    font-size: medium;
+    font-style: italic;
+}
+
 .course{
     font-size: 21px;
 }
 
 .heading{
     font-size: x-large;
+    font-weight: 500;
 }
 
 .hr{
@@ -42,4 +63,18 @@ a{
 .time{
     text-align: end;
     font-size: 15px;
+}
+
+.name{
+    display:inline-block;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    border-bottom: black dashed 1px;
+    padding: 10px;
+    text-align: center;
 }
